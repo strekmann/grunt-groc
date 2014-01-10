@@ -24,7 +24,7 @@
     "node": ">= 0.8.0"
   },
   "dependencies": {
-    "groc": "~0.6.0"
+    "groc": "strekmann/groc"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
